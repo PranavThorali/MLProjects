@@ -29,7 +29,7 @@ This project explores stock market data using time series analysis techniques to
 3. Run Jupyter Notebook
    jupyter notebook TimeSeriesStock.ipynb
 
-##📈 Results
+## 📈 Results
 
 - Visualized long-term stock price trends and volatility
 
@@ -37,7 +37,7 @@ This project explores stock market data using time series analysis techniques to
 
 - Compared statistical and deep learning approaches
 
-##🛠 Tech Stack
+## 🛠 Tech Stack
 
 - Python, Pandas, NumPy
 
